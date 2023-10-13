@@ -105,3 +105,5 @@ instead of the usual model and messages
 }
 
 BEWARE: it is necessary to maintain the "messages" updated in order to have a correst CHAT with openai
+
+It is possible to use LangChain (as implemented in the related function) in order to "ease" the process
